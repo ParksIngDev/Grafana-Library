@@ -1,0 +1,77 @@
+[
+  {
+    "name": "summary",
+    "file": "icons/summary.svg",
+    "url": "https://raw.githubusercontent.com/ParksIngDev/Grafana-Library/main/icons/summary.svg"
+  },
+  {
+    "name": "fuel-tank",
+    "file": "icons/fuel-tank.svg",
+    "url": "https://raw.githubusercontent.com/ParksIngDev/Grafana-Library/main/icons/fuel-tank.svg"
+  },
+  {
+    "name": "flow-meter",
+    "file": "icons/flow-meter.svg",
+    "url": "https://raw.githubusercontent.com/ParksIngDev/Grafana-Library/main/icons/flow-meter.svg"
+  },
+  {
+    "name": "generator",
+    "file": "icons/generator.svg",
+    "url": "https://raw.githubusercontent.com/ParksIngDev/Grafana-Library/main/icons/generator.svg"
+  },
+  {
+    "name": "fuel-pump",
+    "file": "icons/fuel-pump.svg",
+    "url": "https://raw.githubusercontent.com/ParksIngDev/Grafana-Library/main/icons/fuel-pump.svg"
+  },
+  {
+    "name": "injection",
+    "file": "icons/injection.svg",
+    "url": "https://raw.githubusercontent.com/ParksIngDev/Grafana-Library/main/icons/injection.svg"
+  },
+  {
+    "name": "return",
+    "file": "icons/return.svg",
+    "url": "https://raw.githubusercontent.com/ParksIngDev/Grafana-Library/main/icons/return.svg"
+  },
+  {
+    "name": "trip",
+    "file": "icons/trip.svg",
+    "url": "https://raw.githubusercontent.com/ParksIngDev/Grafana-Library/main/icons/trip.svg"
+  },
+  {
+    "name": "balance",
+    "file": "icons/balance.svg",
+    "url": "https://raw.githubusercontent.com/ParksIngDev/Grafana-Library/main/icons/balance.svg"
+  },
+  {
+    "name": "consumption",
+    "file": "icons/consumption.svg",
+    "url": "https://raw.githubusercontent.com/ParksIngDev/Grafana-Library/main/icons/consumption.svg"
+  },
+  {
+    "name": "distribution",
+    "file": "icons/distribution.svg",
+    "url": "https://raw.githubusercontent.com/ParksIngDev/Grafana-Library/main/icons/distribution.svg"
+  },
+  {
+    "name": "alert",
+    "file": "icons/alert.svg",
+    "url": "https://raw.githubusercontent.com/ParksIngDev/Grafana-Library/main/icons/alert.svg"
+  },
+  {
+    "name": "vessel",
+    "file": "icons/vessel.svg",
+    "url": "https://raw.githubusercontent.com/ParksIngDev/Grafana-Library/main/icons/vessel.svg"
+  },
+  {
+    "name": "engine",
+    "file": "icons/engine.svg",
+    "url": "https://raw.githubusercontent.com/ParksIngDev/Grafana-Library/main/icons/engine.svg"
+  },
+  {
+    "name": "transfer",
+    "file": "icons/transfer.svg",
+    "url": "https://raw.githubusercontent.com/ParksIngDev/Grafana-Library/main/icons/transfer.svg"
+  }
+]
