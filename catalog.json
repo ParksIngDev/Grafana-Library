@@ -73,5 +73,15 @@
     "name": "transfer",
     "file": "icons/transfer.svg",
     "url": "https://raw.githubusercontent.com/ParksIngDev/Grafana-Library/main/icons/transfer.svg"
+  },
+  {
+    "name": "map-start-pin",
+    "file": "icons/map-start-pin.svg",
+    "url": "https://raw.githubusercontent.com/ParksIngDev/Grafana-Library/main/icons/map-start-pin.svg"
+  },
+  {
+    "name": "map-end-pin",
+    "file": "icons/map-end-pin.svg",
+    "url": "https://raw.githubusercontent.com/ParksIngDev/Grafana-Library/main/icons/map-end-pin.svg"
   }
 ]
