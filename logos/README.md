@@ -1,10 +1,11 @@
-# Logos
+# Logos de empresas
 
-## ADM
+Esta carpeta reúne los logos de las empresas que aparecen en los dashboards de Grafana.
 
-- Archivo: `adm.svg`
-- URL directa para Grafana: https://raw.githubusercontent.com/ParksIngDev/Grafana-Library/main/logos/adm.svg
-- Fuente del SVG: https://upload.wikimedia.org/wikipedia/commons/3/36/Archer_Daniels_Midland_logo.svg
-- Ficha de origen: https://commons.wikimedia.org/wiki/File:Archer_Daniels_Midland_logo.svg
+Para usar un logo en un panel, abrí su archivo en GitHub y copiá la URL de la vista **Raw**. Cuando agregues una empresa, incluí su logo en esta carpeta y registrá la fuente en la tabla.
 
-Se conserva el SVG de origen y sus colores. La marca pertenece a su titular; este repositorio aloja una copia para su uso en el dashboard.
+| Empresa | Archivo | URL para Grafana | Fuente |
+|---|---|---|---|
+| ADM | [adm.svg](./adm.svg) | [SVG directo](https://raw.githubusercontent.com/ParksIngDev/Grafana-Library/main/logos/adm.svg) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Archer_Daniels_Midland_logo.svg) |
+
+Cada marca pertenece a su respectivo titular.
